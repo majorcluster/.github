@@ -1,11 +1,12 @@
 ## Major Cluster
 
-Welcome to Major Cluster!    
+Welcome to Major Cluster!   
+More about us [here](https://info.majorcluster.com/).    
 We are a team of experienced professionals who specialize in providing top-notch consulting services for companies looking to optimize their technology stack.   
 Our expertise spans across multiple programming languages, including Clojure, JVM languages, and Javascript.   
 We strongly believe in the power of Free Software and its ability to drive innovation and collaboration in the tech industry.   
 That's why we actively contribute to various Free Software initiatives by developing, contributing to, and promoting open-source software projects.   
-We believe that open-source software is key to creating a more accessible and equitable tech industry, and we are proud to support and participate in Free Software communities
+We believe that open-source software is key to creating a more accessible and equitable tech industry, and we are proud to support and participate in Free Software communities.
 
 ## Services
 At Major Cluster, we value Free Software initiatives and we we offer a wide range of consulting services to help you achieve your business goals. Some of our core services include:
